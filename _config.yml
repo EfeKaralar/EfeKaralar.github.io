@@ -4,9 +4,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a website I created using GitHub Pages and a repository from MLH!
   
 baseurl: "/" 
-url: "/portfolio-template" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+url: "/EfeKaralar.github.io" 
+twitter_username: EfeKaralar6
+github_username:  EfeKaralar
 
 sass:
   sass_dir: _sass
